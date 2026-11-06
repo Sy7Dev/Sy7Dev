@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/09b157cc-2453-42bb-9f1f-502a88e5eeb1" width="100%" alt="Suhayb Abdi - Cloud and DevOps" />
+  <img src="https://github.com/user-attachments/assets/a9c16533-5f4b-4e98-aa66-ef52c000d22d" width="100%" alt="Suhayb Abdi - Cloud and DevOps" />
 </p>
 
 <h2 align="center">Hey, I'm Suhayb 👋</h2>
